@@ -11,6 +11,9 @@ body{
     position: relative;
     filter: blur(0.50px);
 }
+#fill-in{
+    color:transparent;
+}
 h1{
     text-align: center;
 }
