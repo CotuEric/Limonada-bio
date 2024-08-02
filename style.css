@@ -2,6 +2,15 @@ body{
     background: linear-gradient(to right, rgb(55, 164, 33), rgb(202, 236, 11));
     font-family: calibri;
 }
+.hero-image{
+    background-image: url("imagini/hero.jpg");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    filter: blur(0.50px);
+}
 h1{
     text-align: center;
 }
